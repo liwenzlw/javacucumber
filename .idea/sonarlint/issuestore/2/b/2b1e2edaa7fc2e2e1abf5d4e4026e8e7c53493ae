@@ -1,0 +1,15 @@
+
+jsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ıâ·úúÿÿÿÿ8İôŠŠÌ,
+Rsquid:EmptyStatementUsageCheck"Remove this empty statement.(š÷’Ûüÿÿÿÿ8³ªŠŠÌ,
+jsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Ù˜ÊÄüÿÿÿÿ8İôŠŠÌ,
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÍØóÜúÿÿÿÿ8³ªŠŠÌ,
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(š÷’Ûüÿÿÿÿ8³ªŠŠÌ,
+jsquid:S00112
+"FDefine and throw a dedicated exception instead of using a generic one.(ÓşÍûÿÿÿÿ8İôŠŠÌ,
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(µåÏØüÿÿÿÿ8³ªŠŠÌ,
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(”“î€8³ªŠŠÌ,
+jsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(¼Ÿûİıÿÿÿÿ8İôŠŠÌ,
